@@ -1,0 +1,18 @@
+irc:
+ charset: utf-8
+ server: localhost
+ port: 26261
+# password: hohho
+ nick: r
+ name: name
+ desc: desc
+ #channel you want to notice changings
+ channel: '#hoge'
+
+account:
+ name: **YOUR SCREEN NAME**
+ consumer_key: **Application KEY**
+ consumer_secret: **Application Secret**
+ token: **Access Token**
+ secret: **Access Secret**
+

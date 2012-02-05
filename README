@@ -1,0 +1,16 @@
+remtter
+
+==
+
+find your twitter follower's changings and notice to your IRC channel.
+
+*config
+-creat OAuth application(read only) https://dev.twitter.com/apps/new
+-edit config.yaml.
+-register it to your crontab.
+
+*license
+MIT License
+
+*author
+walkure at kmc.gr.jp
